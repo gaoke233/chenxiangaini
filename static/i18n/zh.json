@@ -15,7 +15,7 @@
   "ok": "确定",
   "name": "名字",
   "comment": "留言",
-  "eat-kano": "吃掉小鹿乃",
+  "eat-kano": "陈香爱你么么哒",
   "default-dfjk": "默认为DFJK",
   "default-20s": "默认为20秒",
   "game-title": "陈香的音游",
@@ -57,3 +57,4 @@
   "no-self-record": "没有找到 {name} 的记录(或被过滤)",
   "no-name-tip": "提示：你玩之前还没有填名字"
 }
+
